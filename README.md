@@ -1,3 +1,11 @@
+<h1 style="font-size: 60px; text-align:center; font-weight:bold;">
+  Proyecto Laravel — Documentación
+</h1>
+
+<h2 style="font-size: 40px; text-align:center; margin-bottom:40px;">
+  Este proyecto es es nuevo proyecto creado en Laravel, inicializado con git.
+</h2>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
